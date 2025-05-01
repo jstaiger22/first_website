@@ -1,1 +1,2 @@
-theme: jekyll-theme-minimal
+remote_theme: devich/quick@0.0.1
+theme_color: pumpkin
