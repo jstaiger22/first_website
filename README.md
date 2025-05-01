@@ -13,3 +13,4 @@
 **This text is bold**
 
 *This text is italic*
+[This is the text of a lin](https://www.google.com)
